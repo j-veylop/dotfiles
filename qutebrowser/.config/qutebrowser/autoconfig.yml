@@ -9,6 +9,7 @@ settings:
   content.javascript.clipboard:
     https://bun.sh: access-paste
     https://github.com: access-paste
+    https://tanstack.com: access-paste
     https://ui.shadcn.com: access-paste
   fonts.default_size:
     global: 18pt
@@ -18,3 +19,5 @@ settings:
     global: 18
   fonts.web.size.minimum:
     global: 0
+  scrolling.smooth:
+    global: true
