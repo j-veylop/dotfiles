@@ -11,6 +11,8 @@ settings:
     https://github.com: access-paste
     https://tanstack.com: access-paste
     https://ui.shadcn.com: access-paste
+  fonts.default_family:
+    global: Adwaita
   fonts.default_size:
     global: 18pt
   fonts.web.size.default:
