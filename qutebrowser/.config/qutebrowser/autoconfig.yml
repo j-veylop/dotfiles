@@ -8,6 +8,7 @@ config_version: 2
 settings:
   content.javascript.clipboard:
     https://bun.sh: access-paste
+    https://chatgpt.com: access-paste
     https://github.com: access-paste
     https://tanstack.com: access-paste
     https://ui.shadcn.com: access-paste
